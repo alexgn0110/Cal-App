@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "calc-app-agn",
+    "react-calculator": "calc-app-agn"
+  },
+  "targets": {},
+  "etags": {}
+}
